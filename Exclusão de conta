@@ -1,11 +1,28 @@
-Exclusão de Conta e Dados - App FreedoN.FINAL
-No FreedoN.FINAL, respeitamos a sua privacidade e permitimos que você solicite a exclusão da sua conta e de todos os dados associados a qualquer momento.
-Como solicitar a exclusão:
-1. Pelo App: Vá em Perfil > Configurações > Excluir Conta.
-2. Por E-mail: Envie um e-mail para [SEU-EMAIL-AQUI] com o assunto "Exclusão de Dados - FreedoN.FINAL", informando o seu e-mail de cadastro.
-O que será excluído:
-• Todos os dados de perfil (nome, foto, e-mail).
-• Registros financeiros e dados de localização salvos.
-O que será mantido:
-• Manteremos apenas registros de transações financeiras exigidos por leis fiscais locais por um período de até [X] anos, após o qual serão permanentemente apagados.
-Prazo: A exclusão total ocorrerá em até [7] dias úteis após a solicitação.
+Guia de Exclusão de Conta e Dados — FreedoN.FINAL
+No FreedoN.FINAL, levamos a sua privacidade a sério. Se você decidir que não deseja mais utilizar nossos serviços, oferecemos um processo simples e transparente para excluir sua conta e todos os dados associados.
+1. Como solicitar a exclusão da conta
+Você tem duas maneiras de solicitar a exclusão definitiva dos seus dados:
+Opção A: Diretamente pelo aplicativo (Recomendado)
+Esta é a maneira mais rápida. Siga os passos abaixo:
+1. Abra o app FreedoN.FINAL e faça login.
+2. Toque no ícone de Perfil no menu inferior.
+3. Role a tela até o final até encontrar a seção "Zona de Perigo".
+4. Toque no botão "Excluir minha conta e dados".
+5. Confirme a ação no diálogo que aparecerá na tela.
+6. Sua conta será desconectada e o processo de exclusão será iniciado imediatamente.
+Opção B: Solicitação via E-mail
+Caso você não tenha mais o aplicativo instalado, pode solicitar a exclusão enviando um e-mail para o desenvolvedor:
+• E-mail: ffj.app@gmail.com
+• Assunto: Exclusão de Dados - FreedoN.FINAL
+• Corpo do e-mail: Informe o e-mail que você utilizou para se cadastrar no app. Responderemos confirmando a exclusão em até 7 dias úteis.
+2. Quais dados serão excluídos?
+Ao processar a sua solicitação, os seguintes dados serão removidos permanentemente dos nossos servidores:
+• Informações de Perfil: Nome completo, CPF, data de nascimento e foto de perfil.
+• Documentação: Cópias da CNH, CRLV e comprovantes de residência enviados para validação.
+• Dados de Localização: Todo o histórico de endereços e coordenadas salvos.
+• Dados Financeiros: Todo o histórico de receitas, despesas e fluxos de caixa registrados no módulo de finanças.
+3. Quais dados são mantidos e por quanto tempo?
+Para cumprir obrigações legais e fiscais, ou para fins de segurança, alguns dados específicos podem ser retidos:
+• Registros de Assinatura: Informações sobre transações financeiras realizadas via Google Play Billing são mantidas conforme os prazos exigidos pela legislação tributária (geralmente 5 anos).
+• Logs de Segurança: Endereços IP e logs de acesso podem ser mantidos por até 180 dias para fins de auditoria e prevenção a fraudes, conforme o Marco Civil da Internet.
+Após os prazos acima, esses dados residuais também são deletados ou anonimizados permanentemente.
